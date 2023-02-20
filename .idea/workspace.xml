@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4480943a-863b-4499-8e78-dd6e4bfb57d6" name="Changes" comment="feat: 시험 성적">
+      <change afterPath="$PROJECT_DIR$/src/Stage2/Q2753.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KPdcWz6RBigV7SXmLP0womhM6u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Stage1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Q10926" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stage1.Q10926" />
+      <module name="BOJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stage2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Q10926" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4480943a-863b-4499-8e78-dd6e4bfb57d6" name="Changes" comment="" />
+      <created>1673880231659</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673880231659</updated>
+      <workItem from="1673880233088" duration="1196000" />
+      <workItem from="1673923250618" duration="68000" />
+      <workItem from="1673940776748" duration="135000" />
+      <workItem from="1673941158642" duration="334000" />
+      <workItem from="1673942887945" duration="46000" />
+      <workItem from="1673942941772" duration="25000" />
+      <workItem from="1674052006015" duration="610000" />
+      <workItem from="1674474073434" duration="1251000" />
+      <workItem from="1674736818475" duration="379000" />
+      <workItem from="1674742392337" duration="4000" />
+      <workItem from="1674822002196" duration="282000" />
+      <workItem from="1674912273753" duration="1110000" />
+      <workItem from="1675002595562" duration="1103000" />
+      <workItem from="1675050297693" duration="1182000" />
+      <workItem from="1675333122796" duration="687000" />
+      <workItem from="1675435077116" duration="411000" />
+      <workItem from="1675692755617" duration="220000" />
+      <workItem from="1675778875675" duration="308000" />
+      <workItem from="1675835402912" duration="1000" />
+      <workItem from="1675951408798" duration="454000" />
+      <workItem from="1676039417149" duration="525000" />
+      <workItem from="1676555288377" duration="399000" />
+      <workItem from="1676897059684" duration="340000" />
+    </task>
+    <task id="LOCAL-00001" summary="add:.gitignore">
+      <created>1673940890704</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673940890704</updated>
+    </task>
+    <task id="LOCAL-00002" summary="BOJ - 2557">
+      <created>1673940906691</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673940906691</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add:.gitignore">
+      <created>1673941436678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673941436678</updated>
+    </task>
+    <task id="LOCAL-00004" summary="BOJ - Q2557">
+      <created>1673941487624</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673941487624</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BOJ - Q1000">
+      <created>1674052607732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674052607732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="BOJ - Q1000">
+      <created>1674474369121</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674474369121</updated>
+    </task>
+    <task id="LOCAL-00007" summary="BOJ - Q1000&#10;&#10;BuffredReader 사용">
+      <created>1674474528105</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674474528105</updated>
+    </task>
+    <task id="LOCAL-00008" summary="BOJ - Q1008">
+      <created>1674474936071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674474936071</updated>
+    </task>
+    <task id="LOCAL-00009" summary="사칙연산">
+      <created>1674737186056</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674737186056</updated>
+    </task>
+    <task id="LOCAL-00010" summary="??!">
+      <created>1674822275333</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674822275333</updated>
+    </task>
+    <task id="LOCAL-00011" summary="1998년생인 내가 태국에서는 2541년생?!">
+      <created>1674913368646</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674913368646</updated>
+    </task>
+    <task id="LOCAL-00012" summary="킹, 퀸, 룩, 비숍, 나이트, 폰">
+      <created>1675003083788</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675003083788</updated>
+    </task>
+    <task id="LOCAL-00013" summary="feat: 나머지 - 모듈러 연산">
+      <created>1675333803341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675333803341</updated>
+    </task>
+    <task id="LOCAL-00014" summary="feat: 곱">
+      <created>1675435481640</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1675435481640</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: 고양이">
+      <created>1675692966023</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1675692966023</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: 개">
+      <created>1675779171291</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1675779171291</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: 새싹(개행문자)">
+      <created>1675951853938</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1675951853938</updated>
+    </task>
+    <task id="LOCAL-00018" summary="feat: 두 수 비교하기">
+      <created>1676039937224</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676039937224</updated>
+    </task>
+    <task id="LOCAL-00019" summary="feat: 시험 성적">
+      <created>1676555668353</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676555668353</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BOJ - 2557" />
+    <MESSAGE value="add:.gitignore" />
+    <MESSAGE value="BOJ - Q2557" />
+    <MESSAGE value="BOJ - Q1000" />
+    <MESSAGE value="BOJ - Q1000&#10;&#10;BuffredReader 사용" />
+    <MESSAGE value="BOJ - Q1008" />
+    <MESSAGE value="사칙연산" />
+    <MESSAGE value="??!" />
+    <MESSAGE value="1998년생인 내가 태국에서는 2541년생?!" />
+    <MESSAGE value="킹, 퀸, 룩, 비숍, 나이트, 폰" />
+    <MESSAGE value="feat: 나머지 - 모듈러 연산" />
+    <MESSAGE value="feat: 곱셈" />
+    <MESSAGE value="feat: 곱" />
+    <MESSAGE value="feat: 고양이" />
+    <MESSAGE value="feat: 개" />
+    <MESSAGE value="feat: 새싹(개행문자)" />
+    <MESSAGE value="feat: 두 수 비교하기" />
+    <MESSAGE value="feat: 시험 성적" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: 시험 성적" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
