@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4480943a-863b-4499-8e78-dd6e4bfb57d6" name="Changes" comment="feat: 시험 성적">
-      <change afterPath="$PROJECT_DIR$/src/Stage2/Q2753.java" afterDir="false" />
-    </list>
+    <list default="true" id="4480943a-863b-4499-8e78-dd6e4bfb57d6" name="Changes" comment="feat: 시험 성적" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +100,7 @@
       <workItem from="1675951408798" duration="454000" />
       <workItem from="1676039417149" duration="525000" />
       <workItem from="1676555288377" duration="399000" />
-      <workItem from="1676897059684" duration="340000" />
+      <workItem from="1676897059684" duration="495000" />
     </task>
     <task id="LOCAL-00001" summary="add:.gitignore">
       <created>1673940890704</created>
